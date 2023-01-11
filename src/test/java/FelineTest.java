@@ -3,7 +3,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import java.util.List;
 
-public class FelineTests {
+public class FelineTest {
     @Test
     public void getFamilyReturnCorrectValue() {
         Feline feline = new Feline();
